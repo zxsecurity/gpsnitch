@@ -1,5 +1,5 @@
 # gpsnitch
-gpsnitch is a tool to detect GPS spoofing attacks. This was presented at [Unrestcon 2016](https://unrestcon.org/)
+gpsnitch is a tool to detect GPS spoofing attacks. This was presented at [Unrestcon 2016](https://unrestcon.org/), [slides](https://zxsecurity.co.nz/presentations/201607_Unrestcon-ZXSecurity_GPSSpoofing.pdf)
 
 ## Requirements
 1. A GPS Device that will talk to [GPSd](http://www.catb.org/gpsd/)
