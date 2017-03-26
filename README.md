@@ -7,7 +7,7 @@ gpsnitch is a tool to detect GPS spoofing attacks. This was presented at [Unrest
 1. Python
 1. Python library [gps3](https://pypi.python.org/pypi/gps3/)
 
-##Running
+## Running
 1. Configure the options in gpsnitch.cfg
 1. Run gpsd `sudo gpsd /dev/ttyUSB0 -F /var/run/gpsd.sock`
 1. Run the gpsnitch `./gpsnitch.py`
